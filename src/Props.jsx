@@ -7,7 +7,7 @@ const Props = () => {
   return (
     <>
       <h1>This is props in react</h1>
-      <Child></Child>
+      <Child myname="Vaishali Gupta"></Child>
     </>
   )
 }
